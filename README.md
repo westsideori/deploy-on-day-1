@@ -354,4 +354,4 @@ A common issue is not being able to authenticate with GitHub. You need to use HT
 [merging]: http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging#Basic-Merging
 [merge conflict]: http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging#Basic-Merge-Conflicts
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/deploy-on-day-1' title='Deploy on Day One'>Deploy on Day One</a> on Learn.co and start learning to code for free.</p>
+
